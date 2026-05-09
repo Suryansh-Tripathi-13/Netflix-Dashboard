@@ -4,7 +4,8 @@
 1 — Project Title / Headline:-
 
 
-🎬 Netflix Universe: Genres, Ratings & Global Trends Dashboard
+🎬 Netflix Universe: Genres, Ratings & Global Trends Dashboard:-
+
 An interactive and visually stunning Power BI dashboard built to explore Netflix TV Shows data — focusing on genre distribution, ratings analysis, type breakdown, country-wise content, year-wise trends, and top-rated show highlights.
 
 
@@ -34,6 +35,7 @@ This tool is built for Netflix subscribers, content analysts, data enthusiasts, 
 
 
 Source: Kaggle — https://www.kaggle.com/datasets/rehanliaqat17/netfix
+
 Dataset contains Netflix content records covering thousands of unique TV shows and movies across multiple genres, countries, and release years — including ratings, types, and image URLs.
 
 
